@@ -1,6 +1,6 @@
 ##  Jonathan Silva :man_technologist: 
     
-###  <p>Hello!, 👋 Welcome to my profile</p>
+###  <p>Hello! 👋 Welcome to my profile</p>
   <a src="https://www.instagram.com/jonathan_silva_31_12/?hl=pt-br">![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
   <a src="">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
     
