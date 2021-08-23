@@ -4,6 +4,14 @@
   <a src="https://www.instagram.com/jonathan_silva_31_12/?hl=pt-br">![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
   <a src="">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
     
+## 📊 My stats
+<div align="center">
+  <a href="https://github.com/Jonathan-inja">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathan-inja&count_private=true&show_icons=true&custom_title=Github%20Status&theme=algolia&layout=compact&border_radius=8"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-inja&theme=algolia&layout=compact&custom_title=Most%20Used&border_radius=8"/>
+</div>
+
 ## 🚀 My skills
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,14 +23,6 @@
   ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
   ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-
-## My stats
-<div align="center">
-  <a href="https://github.com/Jonathan-inja">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathan-inja&count_private=true&show_icons=true&custom_title=Github%20Status&theme=algolia&layout=compact&border_radius=8"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-inja&theme=algolia&layout=compact&custom_title=Most%20Used&border_radius=8"/>
-</div>
 
 ## 💻 OS
   ![UBUNTO](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
