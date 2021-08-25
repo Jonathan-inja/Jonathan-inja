@@ -14,17 +14,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathan-inja&count_private=true&show_icons=true&custom_title=Github%20Status&theme=algolia&layout=compact&border_radius=8"/>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-inja&theme=algolia&layout=compact&custom_title=Most%20Used&border_radius=8"/>
+   </a>
 </div>
 
 ## 🚀 My skills
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)   
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   <a href="https://www.java.com/pt-BR/">![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)</a>
-  <a href="https://www.mysql.com/">![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>
+  <a href="https://www.mysql.com/">![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)</a>    
   <a href="https://flutter.dev/">![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)<a>
-  <a href="https://dart.dev/">![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)</a>
+  <a href="https://dart.dev/">![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)</a>     
   <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)</a>
   <a href="https://github.com/">![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)</a>
 
